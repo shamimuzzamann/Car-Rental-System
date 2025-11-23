@@ -19,3 +19,8 @@ The project demonstrates Java fundamentals including **OOP, modular design, inpu
 ---
 
 ## 📂 Folder Structure
+CarRentalSystem/
+├─ Main.java
+├─ Car.java
+├─ CarInventory.java
+└─ RentalService.java
