@@ -24,3 +24,38 @@ CarRentalSystem/
 ├─ Car.java
 ├─ CarInventory.java
 └─ RentalService.java
+
+
+---
+
+## 🧱 Architecture
+The project follows a **modular object-oriented structure**:
+
+| Layer | Component | Responsibility |
+|-------|-----------|----------------|
+| UI / Controller | `Main` | Starts program and initializes modules |
+| Business Logic | `RentalService` | Manages rental operations and menu flow |
+| Data Management | `CarInventory` | Stores and retrieves cars |
+| Entity | `Car` | Represents car objects |
+
+---
+
+## 🔧 Technologies & Tools Used
+| Component | Technologies |
+|----------|-------------|
+| Programming Language | Java (JDK 8+) |
+| Libraries | None — pure Java |
+| IDE (Optional) | VS Code / Eclipse / IntelliJ |
+| Version Control | Git & GitHub |
+
+---
+## ▶ How to Run the Project
+### **1. Download or clone the repository**
+
+### **2. Navigate to the project folder**
+
+
+### **3. Compile**
+
+### **4. Run**
+
